@@ -6,3 +6,27 @@ h1 {
 p {
     font-family: 'Press Start 2P', cursive;
 }
+div.jumbotron {
+    text-align: center;
+    
+}
+div.windows {
+    font-family: 'Press Start 2P', cursive;
+    
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Press Start 2P', cursive;
+    
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
